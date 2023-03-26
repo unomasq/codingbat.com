@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AP-1/AP-1.iml" filepath="$PROJECT_DIR$/AP-1/AP-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-1/Array-1.iml" filepath="$PROJECT_DIR$/Array-1/Array-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-2/Array-2.iml" filepath="$PROJECT_DIR$/Array-2/Array-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logic-1/Logic-1.iml" filepath="$PROJECT_DIR$/Logic-1/Logic-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion-2/Recursion-2.iml" filepath="$PROJECT_DIR$/Recursion-2/Recursion-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String-1/String-1.iml" filepath="$PROJECT_DIR$/String-1/String-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String-2/String-2.iml" filepath="$PROJECT_DIR$/String-2/String-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup-1/Warmup-1.iml" filepath="$PROJECT_DIR$/Warmup-1/Warmup-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup-2/Warmup-2.iml" filepath="$PROJECT_DIR$/Warmup-2/Warmup-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codecombat.iml" filepath="$PROJECT_DIR$/codecombat.iml" />
+    </modules>
+  </component>
+</project>
