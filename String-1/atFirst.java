@@ -6,7 +6,7 @@ package String1;
 
  atFirst("hello") → "he"
  atFirst("hi") → "hi"
- atFirst("h") → "h@"
+ atFirst( "h") → "h@"
  **/
 public class atFirst {
     public String atFirst(String str) {
