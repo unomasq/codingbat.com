@@ -3,7 +3,7 @@
 
 
 <details>
-  
+  <summary>Example</summary>
     1. [sleepIn](https://github.com/unomasq/codingbat.com/blob/master/Warmup-1/sleepIn.java)
     2. [diff21](https://github.com/unomasq/codingbat.com/blob/master/Warmup-1/diff21.java)
     3. [nearHundred](https://github.com/unomasq/codingbat.com/blob/master/Warmup-1/nearHundred.java)
