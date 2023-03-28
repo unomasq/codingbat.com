@@ -9,10 +9,14 @@
  caughtSpeeding(65, true) →
  **/
 
-public int caughtSpeeding(int speed,boolean isBirthday){
-    if(isBirthday)speed-=5;
-    if(speed<=60)return 0;
-    if(speed>=61&&speed<=81)return 1;
-    return 2;
+public class caughtSpeeding {
+    public int caughtSpeeding(int speed, boolean isBirthday) {
+        if (isBirthday) speed -= 5;
+        if (speed <= 60) return 0;
+        if (speed >= 61 && speed <= 81) return 1;
+        return 2;
+
+    }
+
 }
 

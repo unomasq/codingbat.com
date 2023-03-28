@@ -7,7 +7,9 @@
  more20(22) → true
  **/
 
-public boolean more20(int n) {
-    return (n % 20 == 1 || n % 20 == 2);
-}
+public class more20 {
+    public boolean more20(int n) {
+        return (n % 20 == 1 || n % 20 == 2);
+    }
 
+}
