@@ -77,3 +77,42 @@
 33. [withoutX2](https://github.com/unomasq/codingbat.com/blob/master/String-1/withoutX2.java)
 </details>
 
+<details>
+  <summary>Logic-1</summary>
+  
+1. [cigarParty]()
+2. [caughtSpeeding]()
+3. [love6]()
+4. [more20]()
+5. [nearTen]()
+6. [teaParty]()
+7. [twoAsOne]()
+8. [lastDigit]()
+9. [maxMod5]()
+10. [blueTicket]()
+11. [dateFashion]()
+12. [dateFashion]()
+13. [in1To10]()
+14. [old35]()
+15. [teenSum]()
+16. [fizzString]()
+17. [inOrder]()
+18. [lessBy10]()
+19. [redTicket]()
+20. [shareDigit]()
+21. [squirrelPlay]()
+22. [alarmClock]()
+23. [specialEleven]()
+24. [less20]()
+25. [answerCell]()
+26. [fizzString2]()
+27. [inOrderEqual]()
+28. [withoutDoubles]()
+29. [greenTicket]()
+30. [sumLimit]()  
+  
+
+
+
+</details>
+
